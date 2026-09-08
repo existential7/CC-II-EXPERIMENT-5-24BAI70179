@@ -1,4 +1,4 @@
-# Experiment 5 — Backtracking Lab
+# Experiment 5 
 
 **Subject:** CC-II (24CSP-339)
 
